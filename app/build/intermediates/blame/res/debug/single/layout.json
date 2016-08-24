@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\AndroidStudioProjects\\smsdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "H:\\AndroidStudioProjects\\smsdemo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioProjects\\smsdemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\AndroidStudioProjects\\smsdemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
